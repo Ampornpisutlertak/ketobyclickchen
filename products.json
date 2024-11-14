@@ -1,0 +1,59 @@
+[
+  {
+      "id": 1,
+      "name":"product name here",
+      "price": 200,
+      "image": "img here",
+      "description": "product description here"
+  },
+  {
+      "id": 2,
+      "name":"product name here",
+      "price": 200,
+      "image": "img here",
+      "description": "product description here"
+  },
+  {
+      "id": 3,
+      "name":"product name here",
+      "price": 200,
+      "image": "img here",
+      "description": "product description here"
+  },
+  {
+      "id": 4,
+      "name":"product name here",
+      "price": 200,
+      "image": "img here",
+      "description": "product description here"
+  },
+  {
+      "id": 5,
+      "name":"product name here",
+      "price": 200,
+      "image": "img here",
+      "description": "product description here"
+  },
+  {
+      "id": 6,
+      "name":"product name here",
+      "price": 200,
+      "image": "img here",
+      "description": "product description here"
+  },
+  {
+      "id": 7,
+      "name":"product name here",
+      "price": 200,
+      "image": "img here",
+      "description": "product description here"
+  },
+  {
+      "id": 8,
+      "name":"product name here",
+      "price": 200,
+      "image": "img here",
+      "description": "product description here"
+  }
+
+]
